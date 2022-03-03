@@ -1,3 +1,5 @@
+[![CircleCI](https://app.circleci.com/pipelines/github/pjwmascall/devops-cloud-CI-CD-lab.svg?style=svg&circle-token=f8727588b222bfd21e7fc1dbfb75ef3971d2e183)](https://app.circleci.com/pipelines/github/pjwmascall/devops-cloud-CI-CD-lab)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
