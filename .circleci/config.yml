@@ -21,7 +21,8 @@ jobs:
       - checkout
       - run: npm install
       - run: npm run build
-      - run: sudo apt-get install python3-dev 
+      - run: sudo apt-get install python3-dev
+      - run: sudo apt install python3-pip
       - aws-s3/sync:
           from: build
           to: 's3://hit-parade-v55-pjwmascall/'
